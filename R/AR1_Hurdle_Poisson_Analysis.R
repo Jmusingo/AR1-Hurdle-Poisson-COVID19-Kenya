@@ -4,7 +4,7 @@
 pacman::p_load(zoo, xts, forecast, tseries, ggplot2, pscl, stats4, numDeriv, xtable)
 
 # --- 1) Read and process ----
-df <- read.csv("WHO_Kenya_daily_deaths.csv", stringsAsFactors = FALSE)
+df <- read.csv("Data/WHO_Kenya_daily_deaths.csv", stringsAsFactors = FALSE)
 df$date <- as.Date(df$date, format="%d/%m/%Y")
 df <- df[order(df$date), ]
 df$deaths <- as.integer(df$deaths)
