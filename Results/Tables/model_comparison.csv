@@ -1,0 +1,3 @@
+Model,LogLikelihood,AIC,BIC
+Hurdle Poisson,-3756.51,7517.01,7526.62
+AR(1) Hurdle Poisson,-2331.63,4675.26,4704.08
