@@ -44,6 +44,9 @@ Repository Contents
 This repository will contain the R scripts, analysis outputs, visualisations and supporting documentation used in the research.
 
 Author
+
 Juddy Lorna Musingo
+
 MSc Applied Statistics
+
 Maseno University
