@@ -35,10 +35,12 @@ Statistical methods – time-series analysis, count-data modelling, maximum like
 Visualisation – exploratory plots, diagnostic plots and forecast comparisons.
 
 Key Findings
+
 The analysis demonstrated the application of a hurdle-based count-data model to COVID-19 mortality observations containing excess zeros and temporal dependence.
 The model was evaluated through parameter estimation, simulation, diagnostic assessment and short-term forecasting.
 
 Repository Contents
+
 This repository will contain the R scripts, analysis outputs, visualisations and supporting documentation used in the research.
 
 Author
