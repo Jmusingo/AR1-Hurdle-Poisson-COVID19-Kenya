@@ -41,7 +41,7 @@ The model was evaluated through parameter estimation, simulation, diagnostic ass
 
 Repository Contents
 
-This repository will contain the R scripts, analysis outputs, visualisations and supporting documentation used in the research.
+This repository contains the R scripts, analysis outputs, visualisations and supporting documentation used in the research.
 
 Author
 
